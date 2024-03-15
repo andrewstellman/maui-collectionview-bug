@@ -5,7 +5,9 @@ Reproduce a .NET MAUI CollectionView bug -- see [.NET MAUI bug #21236](https://g
 
 The CollectionView control's ItemsUpdatingScrollMode does not seem to work on macOS (.NET 8.0.3). In this screenshot:
 
+<kbd>
 <img width="917" alt="image" src="https://github.com/dotnet/maui/assets/7516297/468c3feb-37aa-4e1a-be78-d8f53853ce12">
+</kbd>
 
 (screenshot from [maui-collectionview-bug repo](https://github.com/andrewstellman/maui-collectionview-bug/))
 
